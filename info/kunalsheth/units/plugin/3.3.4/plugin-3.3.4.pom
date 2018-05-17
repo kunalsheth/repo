@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>info.kunalsheth.units</groupId>
   <artifactId>plugin</artifactId>
-  <version>3.3.2</version>
+  <version>3.3.4</version>
   <dependencies>
     <dependency>
       <groupId>org.jetbrains.kotlin</groupId>
